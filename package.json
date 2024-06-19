@@ -1,0 +1,25 @@
+{
+  "name": "websiteproject",
+  "version": "1.0.0",
+  "description": "We are creating website",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log()"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanchousser/NodeJsHomework.git"
+  },
+  "keywords": [
+    "website"
+  ],
+  "author": "me",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/sanchousser/NodeJsHomework/issues"
+  },
+  "homepage": "https://github.com/sanchousser/NodeJsHomework#readme",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
