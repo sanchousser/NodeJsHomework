@@ -4,7 +4,7 @@
   "description": "We are creating website",
   "main": "index.js",
   "scripts": {
-    "test": "console.log()"
+    "start": "node index.html"
   },
   "repository": {
     "type": "git",
